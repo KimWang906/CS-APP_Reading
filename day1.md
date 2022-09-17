@@ -1,9 +1,11 @@
 # CS:APP
 
-## 컴파일
+## Compile System
 
 ### 컴파일 하려는 코드
 
+프로그램 이름 : hello  
+  
 ```c
     #include<stdio.h>
 
