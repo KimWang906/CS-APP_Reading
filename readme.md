@@ -1,15 +1,21 @@
 # CS:APP Reading Note
 
-## Day 1
+## Compile System
 
 Page: 1 ~ 7  
   
-* [Compile System](day1.md)
+* [Compile System](compileSystem.md)
 
-## Day 2
+## The process of running a program
 
-Page: 7.5 ~ 12  
+Page: 7.5 ~ 14  
   
-* [The process of running a program](day2.md)
+* [The process of running a program](ProgramRunProcess.md)
+
+## Process
+
+Page: 15 ~ 18  
+  
+* [Process](process.md)
 
 ### 내 말투대로 다듬는 CS:APP
